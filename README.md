@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @evancchen 👀
-- 🌱 I’m currently learning Javascript and CSS ✨
+- ✨ I’m currently learning Javascript and CSS ✨
 - 💞️ I’m collaborating on Hack for LA 😃
